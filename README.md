@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Debian](https://img.shields.io/badge/OS-Debian-33aadd?style=flat-square&logo=debian&logoColor=ffffff)(https://www.debian.org/)
+![Debian](https://img.shields.io/badge/OS-Debian-33aadd?style=flat-square&logo=debian&logoColor=ffffff)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Longhao-Chen.README)
 
