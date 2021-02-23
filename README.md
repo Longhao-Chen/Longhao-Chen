@@ -6,6 +6,7 @@
 
 I'm **Chen Longhao**, a senior high school student from Quanzhou, Guilin, China.
 
+-   :heart: Computer, Physics, Mathematics
 -   :email: [Longhao.Chen@outlook.com](mailto:Longhao.Chen@outlook.com)
 -   :hammer_and_pick: Julia, Javascript, C++, Github
 -   :computer: GNU/Debian, KDE Plasma, VSCode, Firefox
