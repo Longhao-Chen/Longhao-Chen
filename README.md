@@ -16,7 +16,6 @@ I'm **Longhao Chen**, a student from China.
 
 ***
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Longhao-Chen&theme=solarized_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Longhao-Chen&theme=solarized_dark" />
 
 ![Longhao-Chen Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Longhao-Chen&theme=solarized_dark)
 
